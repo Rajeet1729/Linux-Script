@@ -1,0 +1,18 @@
+.\" Manpage for internsctl.
+.TH man 8 "10 Jan 2023" "0.1.0" "internsctl man page"
+.SH NAME
+internsctl \- Command to run multiple tasks
+.SH SYNOPSIS
+internsctl [COMMAND] 
+internsctl [OPTION]
+.SH OPTION
+.SH DESCRIPTION
+internsctl is high level shell program for running multiple info related tasks. 
+.SH COMMANDS
+The internsctl takes different types of commands - cpu, memory, user, file
+.SH SEE ALSO
+lscpu, free
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Rajeet Goyal
