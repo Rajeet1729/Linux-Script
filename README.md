@@ -1,5 +1,10 @@
 # Linux-Script
 XenonStack Task1 Linux Script
+First run 
+
+chmod +x internsctl.sh in your terminal where the file is downloaded.
+
+
 internsctl file 
 ![Screenshot from 2024-01-10 16-30-06](https://github.com/Rajeet1729/Linux-Script/assets/99602252/54ade7ae-a3e5-4b96-ac32-228fbc9ee46f)
 
